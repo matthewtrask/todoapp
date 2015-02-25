@@ -2,7 +2,8 @@
 <html>
 <head>
 	<title>AppRed | A new todo app</title>
-
+    <meta author="Matt Trask">
+    <meta robots="">
 	<!--Import materialize.css-->
     <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection" />
 
